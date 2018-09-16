@@ -1,7 +1,7 @@
 # CsharpCallCppDll
 
 ## やりたいこと
- Prismプロジェクトで MaterialDesignInXAML を入れる
+ Prismプロジェクトに MaterialDesignInXAML を入れてみる
 
 
 ## nugetパッケージ
