@@ -17,6 +17,8 @@ namespace MaterialDesignSample.MainModule.ViewModels
             set { SetProperty(ref _message, value); }
         }
 
+        public List<string> ComboItems { get; private set; } = new List<string>() { "a1", "b2", "c3" };
+
         public ViewAViewModel()
         {
             Message = "View A from your Prism Module";
